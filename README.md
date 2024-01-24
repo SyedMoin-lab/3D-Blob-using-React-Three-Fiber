@@ -1,11 +1,11 @@
-Preview - 
+# Preview - 
 
 
 
 
 https://github.com/SyedMoin-lab/3D-Blob-using-React-Three-Fiber/assets/63508680/0fd7c574-ec0d-4839-bb67-e5f7c910ce2b
 
-
+# Developed a 3D Blob by applying foundational knowledge of primitive geometries and lighting within the React framework.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
